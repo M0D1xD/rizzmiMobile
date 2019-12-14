@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimary">#484746</color>
+    <color name="primaryColorMuted">#8fbd5f</color>
+    <color name="canvasColor">#72CBCC</color>
+    <color name="cardColor">#f4f4f4</color>
+    <color name="shadowColor">#000000</color>
+    <color name="secondaryColor">#50a141</color>
+    <color name="secondaryColorMuted">#7d7c7a</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#50a141</color>
 </resources>
